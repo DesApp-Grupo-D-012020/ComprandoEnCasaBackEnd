@@ -1,0 +1,13 @@
+model/ListaDeComprasTest.class
+model/ComercioTest.class
+model/ClienteTest.class
+model/AppTest.class
+com/ComprandoEnCasa/ComprandoEnCasaBackEnd/ComprandoEnCasaBackEndApplicationTests.class
+model/EncargadoTest.class
+com/tngtech/archunit/ComprandoEnCasa/LayeredArchitectureTest.class
+model/GeoTest.class
+com/tngtech/archunit/ComprandoEnCasa/MethodsTest.class
+com/tngtech/archunit/ComprandoEnCasa/LayerDependencyRulesTest.class
+com/tngtech/archunit/ComprandoEnCasa/NamingConventionTest.class
+model/MedioDePagoTest.class
+com/tngtech/archunit/ComprandoEnCasa/CodingRulesTest.class
